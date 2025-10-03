@@ -1,6 +1,3 @@
-Got it 👍 — here’s the **entire document wrapped fully in Markdown**, ready to drop into a GitHub `README.md` file
-# DASHProxy
-
 A lightweight Flask-based proxy server that converts MPEG-DASH (Dynamic Adaptive Streaming over HTTP) manifests into streamable HTTP content. Perfect for accessing DASH video/audio streams in environments or players that don't natively support the DASH protocol.
 
 ---
